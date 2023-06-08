@@ -1,0 +1,67 @@
+#fonts-1{
+    font-family: Poppins;
+font-size: 30px;
+font-weight: 600;
+padding-top: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: 
+#FFFFFF;
+
+    
+}
+
+#fonts-2{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+padding-top: 10px;
+
+letter-spacing: 0.02em;
+text-align: left;
+
+color: 
+#FFFFFF;
+
+}
+
+#styles{
+    background-color: rgb(25, 25, 25);
+}
+
+img{
+    border-radius: 3px !important;
+}
+
+#fonts{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+
+letter-spacing: 0em;
+text-align: left;
+color:  #EE402F ;
+
+}
+
+#btn-2{
+   
+border-radius: 3px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+#styles{
+padding-top: 40px;
+padding-bottom: 40px;
+ border: none !important;
+}
+#cardbody{
+   
+}

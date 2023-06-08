@@ -1,0 +1,30 @@
+#font-1{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+#font-2{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+text-transform: capitalize;
+color: 
+#FFFFFF;
+
+}
+
+#style{
+    background-color: rgb(25, 25, 25);
+}
+
+img{
+    border-radius: 3px !important;
+}

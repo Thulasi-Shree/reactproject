@@ -1,0 +1,46 @@
+#container {
+    background-image: url('../Img/transportation-logistics_1\ 1.png');
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the transparency by changing the alpha value */
+    color: white;
+    padding: 20px;
+    min-height: 300px;
+  }
+
+  #font1{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+  
+  #font2{
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+color: #EE402F;
+text-transform: capitalize;
+  }
+
+  
+  #font3{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+text-transform: capitalize;
+  }
+
+  #space1{
+  margin-top: 150px;
+  margin-bottom: 150px;
+  }

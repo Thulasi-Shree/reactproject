@@ -1,0 +1,19 @@
+#nav-colour{
+    background: #111111;
+        
+}
+
+#nav-font{
+    color: #FFFFFF;
+    font-family: "Poppins" ;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    
+    
+}
+
+#toggler{
+    background-color:#EE402F;
+ 
+}
