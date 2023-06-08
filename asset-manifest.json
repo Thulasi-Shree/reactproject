@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactproject/static/css/main.96c0bfc8.css",
+    "main.js": "/reactproject/static/js/main.94d2d11d.js",
+    "static/media/Rectangle 9.png": "/reactproject/static/media/Rectangle 9.836b52bb5f08ac6dd1f3.png",
+    "static/media/transportation-logistics_1 1.png": "/reactproject/static/media/transportation-logistics_1 1.56bf66455ca4d3790ff2.png",
+    "static/media/Rectangle 8.png": "/reactproject/static/media/Rectangle 8.829d4360313cfe98c2bc.png",
+    "static/media/DSC08771 1.png": "/reactproject/static/media/DSC08771 1.d3e6b7c46e2e3cfde51c.png",
+    "static/media/inverters-to-transform-direct-current-prodused-by-2023-04-10-19-58-16-utc 1.png": "/reactproject/static/media/inverters-to-transform-direct-current-prodused-by-2023-04-10-19-58-16-utc 1.ee3f3c4df4765ec37c50.png",
+    "static/media/solar-power-station-solar-farm-with-electricity-i-2023-04-07-16-19-40-utc 1.png": "/reactproject/static/media/solar-power-station-solar-farm-with-electricity-i-2023-04-07-16-19-40-utc 1.815cc43a37daddfa4eb8.png",
+    "static/media/WhatsApp Image 2023-04-26 at 7.32.23 PM 1 (1).png": "/reactproject/static/media/WhatsApp Image 2023-04-26 at 7.32.23 PM 1 (1).0e262bb32d0f330f5371.png",
+    "static/media/solar-powered-street-light-pole-san-jose-califor-2021-08-30-08-09-59-utc 1.png": "/reactproject/static/media/solar-powered-street-light-pole-san-jose-califor-2021-08-30-08-09-59-utc 1.8ce3947fa5df6ccbe64d.png",
+    "index.html": "/reactproject/index.html",
+    "main.96c0bfc8.css.map": "/reactproject/static/css/main.96c0bfc8.css.map",
+    "main.94d2d11d.js.map": "/reactproject/static/js/main.94d2d11d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c0bfc8.css",
+    "static/js/main.94d2d11d.js"
+  ]
+}
